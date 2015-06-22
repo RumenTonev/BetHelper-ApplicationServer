@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="bethelpertrial" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Downloads\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\Server\\BetHelper\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Downloads\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\Server\\BetHelper\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="bethelpertrial/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Downloads\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\Server\\BetHelper\.Web\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="AzureWebJobsDashboard-Web.config Connection String" description="" value="DefaultEndpointsProtocol=https;AccountName=betehelperstorage;AccountKey=f/PFI9LCe+OAiCZBi2wrGc//boQgB8xjSu28BNl1wPxSB0s++k/i2nF9ZklqnbjZ6Zy4/zo61GqNzkd82s3ZJQ==" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Downloads\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\Server\\BetHelper\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureWebJobsDashboard']/@connectionString" />
+  </parameter>
+  <parameter name="AzureWebJobsStorage-Web.config Connection String" description="" value="DefaultEndpointsProtocol=https;AccountName=betehelperstorage;AccountKey=f/PFI9LCe+OAiCZBi2wrGc//boQgB8xjSu28BNl1wPxSB0s++k/i2nF9ZklqnbjZ6Zy4/zo61GqNzkd82s3ZJQ==" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Downloads\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\Server\\BetHelper\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureWebJobsStorage']/@connectionString" />
+  </parameter>
+  <parameter name="BetHelperDb-Web.config Connection String" description="" value="Data Source=tcp:mxhzkb4fxq.database.windows.net,1433;Initial Catalog=BetHelperDB;User ID=kirkora78@mxhzkb4fxq;Password=$Blink185" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Downloads\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\kirkora78-tutorialfootballappproject-8d80f0ea17c9\\Server\\BetHelper\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BetHelperDb']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,14 @@
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\BetHelper.Models.dll.config
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\BetHelper.Models.dll
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\BetHelper.Models.pdb
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\EntityFramework.dll
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\EntityFramework.xml
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\obj\Debug\BetHelper.Models.csprojResolveAssemblyReference.cache
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\obj\Debug\BetHelper.Models.dll
+D:\Downloads\kirkora78-tutorialfootballappproject-8d80f0ea17c9\kirkora78-tutorialfootballappproject-8d80f0ea17c9\Server\BetHelper.Models\obj\Debug\BetHelper.Models.pdb
